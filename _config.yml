@@ -33,7 +33,7 @@ youtube_username:
 features:
   - title: "簡単読み取り"
     description: "スキャンボタンとカードタッチで簡単に読み取り可能です。"
-    fontawesome_icon_name: credit-card
+    fontawesome_icon_name: scanner-touchscreen
 
   - title: "読み取り履歴を保存"
     description: "スキャン履歴を保存できるので、何枚でも読み取り可能です。"
