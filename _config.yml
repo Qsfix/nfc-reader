@@ -2,10 +2,10 @@
 page_title: # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id: 1511398926 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id: 1549825102 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link: # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link: https://play.google.com/store/apps/details?id=com.nosuke.rapid
+playstore_link: https://play.google.com/store/apps/details?id=com.qsfix.bycleparkNfc
 
 # Enter Google Play Store URL.
 # presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
@@ -14,34 +14,34 @@ playstore_link: https://play.google.com/store/apps/details?id=com.nosuke.rapid
 app_icon: # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: 無料 # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: アプリを開いて2秒で記録！！爆速ToDoメモアプリ
+app_description: ICカードをかざしてスキャン、カード番号をクリップボードにコピー
 
 enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 
 # Information About Yourself
-your_name: nosuke
-your_link: https://twitter.com/nosuke926
+your_name: Q'sfix
+your_link: https://www.qsfix.com/
 your_city: Tokyo
-email_address: nagase0926@gmail.com
+email_address: innovation@cabcsgroup.com
 facebook_username:
 instagram_username:
-twitter_username: nosuke926
-github_username: nosuke0926
+twitter_username: 
+github_username: qsfix
 youtube_username:
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
-  - title: "素早く記録"
-    description: "起動と同時にキーボードが立ち上がり、さっとメモができます。"
-    fontawesome_icon_name: tasks
+  - title: "簡単読み取り"
+    description: "スキャンボタンとカードタッチで簡単に読み取り可能です。"
+    fontawesome_icon_name: credit-card-blank
 
-  - title: "Todoアプリ・メモ両方使える"
-    description: "詳細も記載できるので、メモとしても使用可能"
-    fontawesome_icon_name: sticky-note
+  - title: "読み取り履歴を保存"
+    description: "スキャン履歴を保存できるので、何枚でも読み取り可能です。"
+    fontawesome_icon_name: save
 
-  - title: "フォームとリストが一画面に"
-    description: "入力画面とリスト一覧を同時に確認可能。画面の比率を変更できます。"
-    fontawesome_icon_name: mobile-alt
+  - title: "カード番号を簡単コピー"
+    description: "カード番号をクリップボードに簡単にコピー可能です。"
+    fontawesome_icon_name: clipboard-check
 
 # Theme Settings
 topbar_color: "#000000"

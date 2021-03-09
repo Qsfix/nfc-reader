@@ -12,7 +12,7 @@ include_in_header: true
 
 # **Version 1.0**
 
-「爆速ToDoメモ」 iOS版をリリースしました。
+「Q's NFC リーダー」 iOS 版、Android 版をリリースしました。
 
 <br>
 
