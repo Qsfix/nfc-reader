@@ -10,7 +10,7 @@ include_in_header: false
 # プライバシーポリシー
 
 株式会社 Q'sfix は、当社が提供する「Q'S カードリーダー」（以下「本サービス」といいます。）における、利用者の個人情報の取り扱いについて、以下の通り規約を定めます。
-なお、当社の個人情報保護方針にていは[こちら](https://www.qsfix.com/other/handling.php)をご参照ください。
+なお、当社の個人情報保護方針については[こちら](https://www.qsfix.com/other/handling.php)をご参照ください。
 
 ## 個人情報
 
